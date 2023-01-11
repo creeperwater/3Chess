@@ -55,3 +55,16 @@ footer>p{
   font-size: 20px;
   text-align: center;
 }
+#opensource{
+  background: linear-gradient(to right, #24292f, #580c92);
+  color: #fff;
+  line-height: 30px;
+  width: 120px;
+  position: fixed;
+  right: -28px;
+  top: 17px;
+  transform: rotate(45deg);
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
